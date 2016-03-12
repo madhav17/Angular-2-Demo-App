@@ -3,3 +3,5 @@
 /src
 /.idea
 *.iml
+*.log
+.idea

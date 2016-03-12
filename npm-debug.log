@@ -1,5 +1,5 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'run', 'lite' ]
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'run-script', 'lite' ]
 2 info using npm@2.14.20
 3 info using node@v4.4.0
 4 verbose run-script [ 'prelite', 'lite', 'postlite' ]
@@ -20,7 +20,7 @@
 10 verbose pkgid angular2-boilerplate@1.0.0
 11 verbose cwd /home/madhav/Angular2workspace/Angular-2-Demo-App
 12 error Linux 3.19.0-25-generic
-13 error argv "/usr/bin/nodejs" "/usr/bin/npm" "run" "lite"
+13 error argv "/usr/bin/nodejs" "/usr/bin/npm" "run-script" "lite"
 14 error node v4.4.0
 15 error npm  v2.14.20
 16 error code ELIFECYCLE
