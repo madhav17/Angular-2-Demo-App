@@ -1,12 +1,10 @@
 {
-  "name": "angular2-Demo",
+  "name": "angular2-boilerplate",
   "version": "1.0.0",
   "scripts": {
     "postinstall": "npm run typings install",
     "lite": "lite-server",
     "gulp": "gulp",
-    "tsc": "tsc",
-    "tsc:w": "tsc -w",
     "start": "concurrent \"npm run gulp\" \"npm run lite\" ",
     "typings" : "typings"
   },
